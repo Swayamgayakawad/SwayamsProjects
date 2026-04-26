@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudChat</string>
+    <string name="welcome">Welcome</string>
+    <string name="search">Search</string>
+    <string name="todo">TODO</string>
+    <string name="message">message</string>
+</resources>

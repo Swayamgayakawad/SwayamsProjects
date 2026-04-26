@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "356892787023",
+    "firebase_url": "https://studchat-54643-default-rtdb.firebaseio.com",
+    "project_id": "studchat-54643",
+    "storage_bucket": "studchat-54643.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356892787023:android:23bf1a02151e097dc3453a",
+        "android_client_info": {
+          "package_name": "com.example.studchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO65ez9UIjd3sKfZsP45xN5ePP28TK5xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
