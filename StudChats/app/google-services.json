@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235658123697",
+    "project_id": "studchatsdatabase",
+    "storage_bucket": "studchatsdatabase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235658123697:android:6e308710727bfb581d0590",
+        "android_client_info": {
+          "package_name": "com.example.studchats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqufkx5FLky5YDN7IOGekJvUEsR9xdahI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
